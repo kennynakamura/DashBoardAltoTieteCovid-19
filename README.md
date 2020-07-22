@@ -1,6 +1,9 @@
 # DashBoardAltoTieteCovid-19
 Dashboard com as informações demográficas das cidades do alto tietê e as relações com covid-19.
 
+Software
+-Power BI
+
 Contém informações das cidades do Alto Tietê
 - Mogi das Cruzes
 - Itaquaquecetuba
